@@ -1,10 +1,9 @@
 ###
-
-"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/cattus/kittycustom_spider.jar",
-
+{
+"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/cattus/ckittycustom_spider.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 
-{"sites": [
+"sites": [
 {"key":"csp_xpath___在线之家","name":"0508","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
 {"key":"csp_xpath___乐猪影视","name":"乐猪影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/lezhutv.json"},
 {"key":"csp_xpath___九四神马","name":"九四神马〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/94sm.json"},
