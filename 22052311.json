@@ -1,7 +1,7 @@
 ###
 {
-"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/cattus/cattuscustom_spider.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
+"spider":"https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}]}],
 
 "sites": [
 {"key":"csp_xpath___在线之家","name":"0508","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
