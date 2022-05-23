@@ -1,5 +1,5 @@
 ###
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+
 "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/cattus/kittycustom_spider.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
