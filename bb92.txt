@@ -365,7 +365,6 @@
 {"name":"速播资源","url":"https://api.suboapi.com/api.php"},
 {"name":"酷豆资源","url":"https://kudouzy.com/api.php"},
 {"name":"鲨鱼资源","url":"https://shayuapi.com/api.php"},
-{"name":"观影资源","url":"https://www.yh668.xyz/api.php"},
 {"name":"120-麦-看--影视","url":"http://tv.shenaitv.com/api.php/iptv/vod/"}
 ],
 "lunbo":[
