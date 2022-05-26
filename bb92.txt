@@ -2793,7 +2793,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 舟山东极岛,http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
 福建三坊七巷,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
 武汉两江四岸,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-﻿四川达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+四川达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 广西崇左白头猴国家级自然保护区,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 桂林象鼻山,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
 广州塔和海心桥,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
@@ -2860,7 +2860,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
 江西武功山云顶,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 嵌雪楼,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-﻿丹霞山丹梯铁锁,http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+丹霞山丹梯铁锁,http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
 韶音亭,http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1_md.m3u8
 坝达景点观景台,http://gccncc.v.wscdns.com/gc/hnttbdjd_1/index.m3u8
 多依树景点,http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
@@ -2953,7 +2953,6 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 黄龙·争艳彩池,http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 黄龙望乡台,http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
-关于信息,https://wklb.coding.net/p/c/d/bktx123/git/raw/master/l/iebt.mp4
 ##",
 "tiyuzhibo": "https://m.zhibo8.net",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
@@ -2981,7 +2980,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 },
 "zidingyi":[
 {"name": "01-LIBVIO影视",
-"url": "https://www.libvio.me",
+"url": "https://www.libvio.com",
 "tihuan": "dd520.cc",
 "User": "空",
 "fenlei": "电视剧$/show/2--#电影$/show/1--#综艺$/show/3--#动漫$/show/4--#动作片$/show/1动作--#喜剧片$/show/1喜剧--#爱情片$/show/1爱情--#科幻片$/show/1科幻--#奇幻片$/show/1奇幻--#恐怖片$/show/1恐怖--#剧情片$/show/1剧情--#战争片$/show/1战争--#冒险片$/show/1冒险--#国产剧$/show/2-中国大陆-#台剧$/show/2-中国台湾-#港剧$/show/2-中国香港-#韩剧$/show/2-韩国-#日剧$/show/2-日本-#美剧$/show/2-美国-#英剧$/show/2-英国-",
