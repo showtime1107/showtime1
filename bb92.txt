@@ -2981,7 +2981,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 },
 "zidingyi":[
 {"name": "01-LIBVIO影视",
-"url": "https://www.libvio.com",
+"url": "https://www.libvio.me",
 "tihuan": "dd520.cc",
 "User": "空",
 "fenlei": "电视剧$/show/2--#电影$/show/1--#综艺$/show/3--#动漫$/show/4--#动作片$/show/1动作--#喜剧片$/show/1喜剧--#爱情片$/show/1爱情--#科幻片$/show/1科幻--#奇幻片$/show/1奇幻--#恐怖片$/show/1恐怖--#剧情片$/show/1剧情--#战争片$/show/1战争--#冒险片$/show/1冒险--#国产剧$/show/2-中国大陆-#台剧$/show/2-中国台湾-#港剧$/show/2-中国香港-#韩剧$/show/2-韩国-#日剧$/show/2-日本-#美剧$/show/2-美国-#英剧$/show/2-英国-",
