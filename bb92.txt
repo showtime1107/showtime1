@@ -245,7 +245,7 @@
 {"name":"048-*鲨鱼-- 资源","url":"https://shayuapi.com/api.php"},
 {"name":"049-*酷豆-- 资源","url":"https://api.kdapi.info/api.php"},
 {"name":"050-*老鸭-- 福利","url":"https://api.apilyzy.com/api.php"},
-{"name":"051-*探探-- 资源","url":"https://apittzy.com/api.php/provide/vod/"},
+{"name":"051-*探探-- 资源","url":"https://apittzy.com/api.php"},
 {"name":"052-*秀色-- 资源","url":"https://api.xiuseapi.com/api.php"},
 {"name":"053-*乐播-- 资源","url":"https://lbapi9.com/api.php"},
 {"name":"054-*番号-- 资源","url":"http://fhapi9.com/api.php"},
