@@ -2007,21 +2007,6 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 ##
 
-##🇨🇳｜补习##
-波多,https://xxx.sdhdbd1.com/xjj/20220515/%e6%97%a5%e9%9f%a9%e6%9c%89%e7%a0%81/%e5%8f%a3%e4%ba%a4-69-%e7%86%9f%e5%a5%b3-%e3%83%9e%e3%83%9e%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e6%80%a7%e6%95%99%e8%82%b2%20%e6%b3%a2%e5%a4%9a%e9%87%8e%e7%b5%90%e8%a1%a3/SD/playlist.m3u8
-补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
-补新05,https://47b61.cdnedge.live/file/avple-images/hls/616d88b5a1a4d6090d670cf1/playlist.m3u8
-麻豆02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
-麻豆04,https://47b61.cdnedge.live/file/avple-images/hls/6167163d51121708a790a1b7/playlist.m3u8
-麻豆06,https://47b61.cdnedge.live/file/avple-images/hls/6167160151121708a790a1b6/playlist.m3u8
-麻豆17,https://47b61.cdnedge.live/file/avple-images/hls/61630f75114a6a29b065cdeb/playlist.m3u8
-麻豆19,https://47b61.cdnedge.live/file/avple-images/hls/61630e49114a6a29b065cde9/playlist.m3u8
-麻豆30,https://47b61.cdnedge.live/file/avple-images/hls/615db90d6c85aa6afbe1e5fb/playlist.m3u8
-麻豆34,https://47b61.cdnedge.live/file/avple-images/hls/615c9e295753920a08945926/playlist.m3u8
-麻豆37,https://47b61.cdnedge.live/file/avple-images/hls/615c9cc15753920a08945923/playlist.m3u8
-麻豆38,https://47b61.cdnedge.live/file/avple-images/hls/615c9c495753920a08945922/playlist.m3u8
-##
-
 ##🎞️｜SiTV##
 SiTV全纪实,http://183.251.61.250/PLTV/88888888/224/3221227083/index.m3u8
 SiTV全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
@@ -5380,6 +5365,64 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+{
+ "name": "搜狗影院",
+ "url": "http://sogouyy.cn",
+ "tihuan": "cnzz.com",
+ "User": "空",
+ "fenlei": "电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#B站$/s/bilibili/page/",
+ "houzhui": "---.html",
+ "shifouercijiequ": "1",
+ "jiequqian": "class=\"module-items",
+ "jiequhou": "<div id=\"page",
+ "jiequshuzuqian": "<div class=\"module-item\">",
+ "jiequshuzuhou": "</div>",
+ "tupianqian": "src=\"",
+ "tupianhou": "\"",
+ "biaotiqian": "title=\"",
+ "biaotihou": "\"",
+ "lianjieqian": "href=\"",
+ "lianjiehou": "\"",
+ "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+ "sousuohou": "&limit=500",
+ "sousuohouzhui": "/d/",
+ "ssmoshi": "0",
+ "sousuoshifouercijiequ": "0",
+ "jspic": "pic",
+ "jsname": "name",
+ "jsid": "id",
+ "ssjiequqian": "空",
+ "ssjiequhou": "空",
+ "ssjiequshuzuqian": "空",
+ "ssjiequshuzuhou": "空",
+ "sstupianqian": "空",
+ "sstupianhou": "空",
+ "ssbiaotiqian": "空",
+ "ssbiaotihou": "空",
+ "sslianjieqian": "空",
+ "sslianjiehou": "空",
+ "bfshifouercijiequ": "0",
+ "bfjiequqian": "空",
+ "bfjiequhou": "空",
+ "bfjiequshuzuqian": "class=\"sort-item\"",
+ "bfjiequshuzuhou": "</div>",
+ "zhuangtaiqian": "集数：</span>",
+ "zhuangtaihou": "</div>",
+ "daoyanqian": "导演：</span>",
+ "daoyanhou": "</div>",
+ "zhuyanqian": "主演：</span>",
+ "zhuyanhou": "</div>",
+ "juqingqian": "class=\"video-info-item video-info-content vod_content\">",
+ "juqinghou": "<a",
+ "bfyshifouercijiequ": "0",
+ "bfyjiequqian": "空",
+ "bfyjiequhou": "空",
+ "bfyjiequshuzuqian": "<a",
+ "bfyjiequshuzuhou": "/a>",
+ "bfbiaotiqian": "<span>",
+ "bfbiaotihou": "<",
+ "bflianjieqian": "href=\"",
+ "bflianjiehou": "\""},
 {"name": "43-六度TV",
 "url": "http://6d.xuangz.cn",
 "User": "空",
