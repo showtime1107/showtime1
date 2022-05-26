@@ -10,6 +10,7 @@
 "sites":[
 {"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/showtime1107/showtime1/main/Biubiu/大师兄影视.json"},
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"观影","name":"观影","type":1,"api":"https://www.yh668.xyz/api.php","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
