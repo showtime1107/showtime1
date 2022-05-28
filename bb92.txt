@@ -145,6 +145,7 @@
 ],
 "caijizhan": [
 {"name":"001-酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"淘片","url":"https://taopianapi.com/api.php"},
 {"name":"002-量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"003-松鼠资源","url":"https://m3u8.songshuzy.com/api.php"},
 {"name":"004-每天看看","url":"http://47.113.126.237:1234/api.php"},
