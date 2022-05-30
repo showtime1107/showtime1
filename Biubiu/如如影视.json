@@ -43,9 +43,9 @@
   "zhuangtaiqian": "class=\"pic-text text-right\">",
   "zhuangtaihou": "</span>",
   "daoyanqian": "导演：",
-  "daoyanhou": "</p >",
+  "daoyanhou": "</p>",
   "zhuyanqian": "主演：",
-  "zhuyanhou": "</p >",
+  "zhuyanhou": "</p>",
   "juqingqian": "style=\"display: none;\">",
   "juqinghou": "</span>",
   "bfyshifouercijiequ": "0",
@@ -54,7 +54,7 @@
   "bfyjiequshuzuqian": "<li",
   "bfyjiequshuzuhou": "</li>",
   "bfbiaotiqian": "\">",
-  "bfbiaotihou": "</a >",
+  "bfbiaotihou": "</a>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
