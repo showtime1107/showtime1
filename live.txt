@@ -1,4 +1,6 @@
 🐳douyu(ljk播放器),#genre#
+JJ,http://akm-tct.douyucdn.cn/live/9663368rCd1Gt2dh.flv?uuid=
+JJ2,http://epg.112114.xyz/douyu/9663368
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160

@@ -1,4 +1,6 @@
 🇨🇳｜央视,#genre#
+JJ,http://akm-tct.douyucdn.cn/live/9663368rCd1Gt2dh.flv?uuid=
+JJ2,http://epg.112114.xyz/douyu/9663368
 CCTV1 综合,http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT2738620220502042912053993
 CCTV1 综合,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
 CCTV1 综合,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
