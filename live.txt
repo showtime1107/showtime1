@@ -1,6 +1,12 @@
 🐳douyu(ljk播放器),#genre#
-JJ,http://akm-tct.douyucdn.cn/live/9663368rCd1Gt2dh.flv?uuid=
-JJ2,http://epg.112114.xyz/douyu/9663368
+dy斗地主,https://live.52sf.ga/douyu/488743
+dy斗地主,https://liveb.52sf.ga/douyu/488743
+dy斗地主,https://live2-play-a.live.jjmatch.com/hilive/1534091990017380352_hd.flv
+斗地主,http://39.135.55.105:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
+斗地主,http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
+huya斗地主https://al.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv?wsSecret=795eede7d5e773d028b6f7504119e603&wsTime=62a1497a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16546508744627380
+鲨鱼哟,https://live.52sf.ga/huya/400298
+鲨鱼哟,https://liveb.52sf.ga/huya/400298
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
